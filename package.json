@@ -1,0 +1,19 @@
+{
+  "name": "@phxlab/create-svelte",
+  "version": "1.0.0",
+  "bin": "./bin/index.js",
+  "description": "A started for SvelteKit project for Phoenix Tech Lab",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phxlab/create-phx-svelte.git"
+  },
+  "author": "Nico Plyley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phxlab/create-phx-svelte/issues"
+  },
+  "homepage": "https://github.com/phxlab/create-phx-svelte#readme"
+}
