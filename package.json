@@ -1,6 +1,6 @@
 {
   "name": "@phxlab/create-svelte",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "bin": "./bin/index.js",
   "description": "A started for SvelteKit project for Phoenix Tech Lab",
   "scripts": {
